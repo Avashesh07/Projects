@@ -1,0 +1,6 @@
+# add additional python libraries here
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
