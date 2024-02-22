@@ -24,6 +24,19 @@ architectures using Amazon SageMaker, honing skills in machine
 learning model selection and tuning.
 
 ## Projects
-### Predicting stock performance with linear models using Python
-### Predicting Mortality by Heart Failure using Logistic Regression and Support Vector Classifier
-### Analyzing Labor Cost in Human Resources SQL Database
+### Regression Based Projects:
+- Predicting stock performance with linear models using Python
+- Predicting Mortality by Heart Failure using Logistic Regression and Support Vector Classifier
+- Grocery Store Sales Analysis and Forecasting
+  
+### SQL Projects:
+- Analyzing Labor Cost in Human Resources SQL Database
+- Preparing SQL Queries for Customer Dashboard
+  
+### Reinforcement Learning:
+- Snake Game AI (Reinforcement Learning)
+- Basic Flappy Bird AI (Game Developement in Python and Reinforcement Learning)
+  
+### Natural Language Processing Projects:
+- Movie Review Sentiment Analysis
+- Spotify Song Recommender V1 (Basic Recommendation System)
